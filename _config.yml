@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Joshua Lansford"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate with ABET Accredited Computer Engineering degree and 15+ years track record hardware design experience."
+  bio    : "Graduate with ABET Accredited Computer Engineering degree.  15+ years track record hardware design experience."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
